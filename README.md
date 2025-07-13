@@ -1,1 +1,1 @@
-# shoe-store
+# finance tracker
